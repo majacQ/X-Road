@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "core-js": "~3.6.5",
+    "core-js": "~3.20.2",
     "roboto-fontface": "*",
     "vee-validate": "3.4.1",
     "vue": "~2.6.12",
