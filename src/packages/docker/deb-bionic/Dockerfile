@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:18.04
 RUN export DEBIAN_FRONTEND=noninteractive; \
     apt-get -qq update && \
     apt-get -qq install \
